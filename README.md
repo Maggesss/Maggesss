@@ -1,12 +1,12 @@
 # Hello, me the Mug.
 Im a student from germany, trying to make my small dc bot work smh. 
 
-### Some thingeis:
+### Some thingies:
 [<img align="left" alt="Node.js" width="22px" src="https://simpleicons.org/icons/nodedotjs.svg" />][Node.js]
 [<img align="left" alt="JS" width="22px" src="https://simpleicons.org/icons/javascript.svg" />][JS] <br/>
 [<img align="left" alt="Windows" width="22px" src="https://simpleicons.org/icons/windows.svg" />][Windows] <br/>
 [<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />][Python] <br/>
-[<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />[Visual Studio Code] <br/>
+[<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][Visual Studio Code] <br/>
 
 
 ### Stats:
