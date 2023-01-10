@@ -1,5 +1,5 @@
 # Hello, me the Mug.
-Im a student from Germany, trying to make my small dc bot work smh. 
+I'm a student from Germany, trying to make my small dc bot work smh. 
 
 ### Some thingies:
 [<img align="left" alt="Node.js" width="22px" src="https://simpleicons.org/icons/nodedotjs.svg" />][Node.js]
