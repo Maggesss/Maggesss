@@ -18,3 +18,4 @@ I'm a student from Germany, trying to make my small dc bot work smh.
 [Windows]: https://www.microsoft.com/de-de/windows?r=1
 [Python]: https://www.python.org/
 [Visual Studio Code]: https://code.visualstudio.com/
+[CS]: https://learn.microsoft.com/de-de/dotnet/csharp/tour-of-csharp/
