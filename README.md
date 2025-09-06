@@ -1,4 +1,4 @@
-# 😒 Hello, me the Mug.
+# Hello, me the Mug.
 
 Gz, you found my GitHub!
 
